@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194974599457",
+    "project_id": "demoapp-961ea",
+    "storage_bucket": "demoapp-961ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194974599457:android:a7aedb12f72199d3c79660",
+        "android_client_info": {
+          "package_name": "com.learning.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194974599457-5lppmd0s76rn8nt6nhtu8sdkkkru67be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChB0wKC3l2S0vxpsq4FLWGyf56KYtd5Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194974599457-5lppmd0s76rn8nt6nhtu8sdkkkru67be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

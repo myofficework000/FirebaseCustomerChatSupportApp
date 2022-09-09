@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1205" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/drawable/ic_baseline_reply_24.xml" value="0.1205" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/drawable/input_message_shape.xml" value="0.1205" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/drawable/item_shape_for_support.xml" value="0.1755" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/drawable/receiver_button_shape.xml" value="0.21" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/drawable/receiver_shape.xml" value="0.1755" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/layout/activity_chatting.xml" value="0.28771289537712896" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/layout/activity_confirm_otpactivity.xml" value="0.2359375" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/layout/activity_main.xml" value="0.2028985507246377" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/layout/activity_notes.xml" value="0.19610507246376813" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/layout/activity_phone.xml" value="0.25" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/layout/activity_support_chat.xml" value="0.23229166666666667" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/layout/item_list_notes.xml" value="0.23278985507246377" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/layout/receiver_view.xml" value="0.24635416666666668" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/layout/sender_view.xml" value="0.24635416666666668" />
+        <entry key="..\:/B39/FirebaseDemo/app/src/main/res/layout/support_chat_view.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
